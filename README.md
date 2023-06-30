@@ -25,7 +25,7 @@
     <img alt="Awesome Humane Tech" src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true">
   </a>
 
-  <h3>An open source alternative front-end to YouTube</h3>
+  <h3>An open source alternative front-end to YouTube *Forking the software to make sure Google can't shut this down*</h3>
 
   <a href="https://invidious.io/">Website</a>
   &nbsp;•&nbsp;
